@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **csc5dz@virginia.edu**
 
-- 📄 Know about my experiences in Economics
+- 📄 Know about my experiences [in Economics](Abdullah,Sara_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
