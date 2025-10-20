@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">A graduate student teaching herself code one line at a time!</h3>
-
-- 🔭 I’m currently working on **building a website**
-
-- 🌱 I’m currently learning **html, JavaScript, CSS, Python**
-
-- 💬 Ask me about **my website**
 
 - 📫 How to reach me **csc5dz@virginia.edu**
 
